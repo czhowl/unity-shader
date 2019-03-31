@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BB92DB20-D16A-A6AB-FA10-D6B279C555FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/raymarching/fractal.shader">
+    <Files>
+      <File FileName="Assets/raymarching/fractal.cs" Line="123" Column="51" />
+      <File FileName="Assets/raymarching/fractal.shader" Line="121" Column="37" />
+      <File FileName="Assets/raymarching/DistanceFunctions.cginc" Line="146" Column="19" />
+      <File FileName="../../../Downloads/Peer Pressure/Raymarching Shader/RaymarchingShader-Part7/Assets/RaymarchShader.shader" Line="125" Column="82" />
+      <File FileName="Assets/raymarching/raymarching.shader" Line="117" Column="86" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

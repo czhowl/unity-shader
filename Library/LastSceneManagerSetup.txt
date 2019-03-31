@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/raymarching/shadow.unity
+- path: Assets/raymarching/fractal.unity
   isLoaded: 1
   isActive: 1
